@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there! I'm Ulada 👩‍💻
 
-<!--
-**uladasahirashvili/uladasahirashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning Python development at Skillbox
+💻 Writing code, solving problems, and dreaming of freelancing🇵🇱 Planning to move to Warsaw with my fiancée
+🧠 INFP personality — always curious and deep-thinking
+☕ I love green tea, dogs, and calm cozy coding vibes
 
-Here are some ideas to get you started:
+💡 What I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python basics, algorithms, and object-oriented programming
+
+Personal projects (learning bots, scripts, utilities) and course assignments
+
+Getting ready for my first junior dev job
+
+🛠 Tech stack:
+
+Python
+
+Git & GitHub
+
+PyCharm
+
+A bit of HTML & Markdown
+
+🎯 Goals:
+
+Become a Junior Python Developer by late 2025 or early 2026
+
+Start freelancing and building real-world experience
+
+Grow a meaningful and creative tech career
+
+“Every commit is one step closer to the dream.”
+
+🌸 Thank you for stopping by! Feel free to check out my repositories or connect with me 💌
+
