@@ -1,8 +1,11 @@
 Hi there! I'm Ulada 👩‍💻
 
 🌱 I'm currently learning Python development at Skillbox
+
 💻 Writing code, solving problems, and dreaming of freelancing🇵🇱 Planning to move to Warsaw with my fiancée
+
 🧠 INFP personality — always curious and deep-thinking
+
 ☕ I love green tea, dogs, and calm cozy coding vibes
 
 💡 What I'm working on:
