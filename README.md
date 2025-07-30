@@ -10,29 +10,29 @@ Hi there! I'm Ulada 👩‍💻
 
 💡 What I'm working on:
 
-Python basics, algorithms, and object-oriented programming
+- Python basics, algorithms, and object-oriented programming
 
-Personal projects (learning bots, scripts, utilities) and course assignments
+- Personal projects (learning bots, scripts, utilities) and course assignments
 
-Getting ready for my first junior dev job
+- Getting ready for my first junior dev job
 
 🛠 Tech stack:
 
-Python
+- Python
 
-Git & GitHub
+- Git & GitHub
 
-PyCharm
+- PyCharm
 
-A bit of HTML & Markdown
+- A bit of HTML & Markdown
 
 🎯 Goals:
 
-Become a Junior Python Developer by late 2025 or early 2026
+- Become a Junior Python Developer by late 2025 or early 2026
 
-Start freelancing and building real-world experience
+- Start freelancing and building real-world experience
 
-Grow a meaningful and creative tech career
+- Grow a meaningful and creative tech career
 
 “Every commit is one step closer to the dream.”
 
