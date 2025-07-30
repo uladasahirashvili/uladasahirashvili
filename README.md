@@ -2,7 +2,7 @@ Hi there! I'm Ulada 👩‍💻
 
 🌱 I'm currently learning Python development at Skillbox
 
-💻 Writing code, solving problems, and dreaming of freelancing🇵🇱 Planning to move to Warsaw with my fiancée
+💻 Writing code, solving problems, and dreaming of freelancing
 
 🧠 INFP personality — always curious and deep-thinking
 
